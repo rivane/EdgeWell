@@ -4,10 +4,10 @@ from scrapy import Selector
 import MySQLdb
 import re
 import pandas as pd
-from datetime import datetime
+
 
 from commons import extract_num
-import settings
+
 
 
 GILLETTE_RAZROS = r'https://gillette.tmall.com/category.htm?spm=a1z10.1-b-s.w14208996-16789983496.3.76a5b9d3UiPRPe&search=y&scene=taobao_shop'
