@@ -19,3 +19,5 @@ if __name__ == '__main__':
     num = extract_num('adf123dsf')
     s = datetime.now().date()
     print(s)
+
+
